@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "logo": "neno.",
+    "cta": "Let's work together"
+  },
+  "hero": {
+    "headline": "Crafting High-End Digital Products with Swiss Precision.",
+    "subline": "We are a senior expert collective specializing in Frontend Architecture, UX Design, and Accessibility. From enterprise-scale applications to award-winning interfaces.",
+    "awards": "5-time Best of Swiss Web Award Winners."
+  },
+  "team": {
+    "title": "The Team",
+    "subtitle": "No Juniors. Just Experts.",
+    "intro": "We are a cohesive team of senior specialists who have spent years perfecting the bridge between design and code.",
+    "members": {
+      "nenad": {
+        "name": "Nenad Brcic",
+        "role": "Software Architect & Accessibility Lead",
+        "bio": "With over 15 years of experience architecting complex frontends for industry leaders like SBB, PwC, and CSS, Nenad ensures every line of code is scalable, maintainable, and inclusive."
+      },
+      "josip": {
+        "name": "Josip Anic",
+        "role": "Senior Frontend Engineer",
+        "bio": "A specialist in modern frameworks like Next.js, Astro, and React. Josip focuses on high-performance engineering, robust modular architectures, and clean, efficient code."
+      },
+      "bojan": {
+        "name": "Bojan Janjanin",
+        "role": "UX/UI & Interaction Designer",
+        "bio": "Bojan crafts intuitive user experiences that blend aesthetic beauty with functional excellence. He is an expert in building design systems that ensure consistency across global products."
+      }
+    }
+  },
+  "expertise": {
+    "title": "Core Expertise",
+    "subtitle": "Focused on Performance and Inclusion.",
+    "items": {
+      "arch": {
+        "title": "Modern Web Architectures",
+        "desc": "We build fast, SEO-optimized, and future-proof applications using Astro and the React ecosystem."
+      },
+      "a11y": {
+        "title": "Digital Accessibility (A11y)",
+        "desc": "Inclusion is not an afterthought. We deliver WCAG-compliant solutions that meet the European Accessibility Act (EAA) standards."
+      },
+      "ux": {
+        "title": "UX-to-Code",
+        "desc": "We eliminate the friction between design and development. Our workflow ensures pixel-perfect implementation of sophisticated designs."
+      }
+    }
+  },
+  "work": {
+    "title": "Selected Work",
+    "subtitle": "Trusted by Industry Leaders.",
+    "items": {
+      "sbb": {
+        "title": "SBB (Swiss Federal Railways)",
+        "desc": "Architecting Next.js 16 platforms for Switzerland’s primary transport provider."
+      },
+      "janzz": {
+        "title": "Janzz.jobs",
+        "desc": "Developing a high-performance PWA for a global job matching platform."
+      },
+      "healthcare": {
+        "title": "MediData & CSS",
+        "desc": "Long-term engineering support for high-security healthcare and insurance environments."
+      }
+    }
+  },
+  "engagement": {
+    "title": "Engagement Models",
+    "subtitle": "How We Work.",
+    "items": {
+      "aug": {
+        "title": "Team Augmentation",
+        "desc": "We integrate seamlessly as senior reinforcement into your existing engineering team."
+      },
+      "project": {
+        "title": "Project Ownership",
+        "desc": "We take full responsibility for building your product from the first sketch to final deployment."
+      },
+      "consult": {
+        "title": "A11y Consulting",
+        "desc": "Expert audits and implementation to make your digital products accessible to everyone."
+      }
+    }
+  },
+  "footer": {
+    "cta": "Ready to build something solid?",
+    "email": "neno@neno.ch",
+    "location": "Bern, Switzerland — Remote Worldwide."
+  }
+}
